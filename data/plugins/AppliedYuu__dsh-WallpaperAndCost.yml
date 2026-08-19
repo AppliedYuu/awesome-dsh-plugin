@@ -1,0 +1,10 @@
+# ============================================================
+# 市场提交文件：放到 fork 仓库的 data/plugins/ 下
+# 文件名必须是：AppliedYuu__dsh-WallpaperAndCost.yml
+# ============================================================
+url: https://github.com/AppliedYuu/dsh-WallpaperAndCost
+name: AppliedYuu/dsh-WallpaperAndCost
+category: ui
+description:
+  en: "Wallpaper customization (original-resolution uploads, crop editor, per-area opacity, MP4/video wallpapers) plus Steam Workshop wallpaper extraction (parses scene.pkg/.tex via a bundled Python script, preview/download) and a DeepSeek balance & usage widget with one-click bookmarklet token import."
+  zh: "壁纸定制（原图不压缩、裁剪编辑器、左/中/右分区不透明度、MP4 动态壁纸）加 Steam 创意工坊壁纸提取（内置 scripts/extract_scene_pkg.py 解析 scene.pkg/.tex，支持预览与下载），以及 DeepSeek 余额与用量小组件，支持书签一键获取平台 Token。"
